@@ -1,0 +1,1 @@
+# exercise-2-inheritance
